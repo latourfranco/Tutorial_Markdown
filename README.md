@@ -13,4 +13,4 @@
 
 > Nota: Para aprovechar el índice del tutorial documentado en formato PDF se debe descargar.
 
-[**Clickee aquí para acceder al videotutorial en YouTube**](https://youtu.be/ewop5u1Nc34)
+Clickee [aquí](https://youtu.be/ewop5u1Nc34) para acceder al **videotutorial en YouTube**
